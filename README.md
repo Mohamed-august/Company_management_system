@@ -1,2 +1,3 @@
-# Company_management_system
-
+#Company management system
+##Using Java Swing
+OOP project using Java swing, I made 5 Jframes which automate a company management system desktop application where the user can login into the system, then a user can see the employee page where he can register attendance and add it to the database, add leave requests, view training, go to manager page, supplier page and client page. Moreover, when he can move to the manager page he can add an employee review. Furthermore, when he moves to the supplier page he can add a product to the database. Finally, when he moves to the client page he can add an employee review or view product received.
